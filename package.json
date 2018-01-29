@@ -1,7 +1,7 @@
 {
-  "name": "react-view-pager",
+  "name": "react-view-pager-react-16",
   "version": "0.6.0",
-  "description": "View-Pager/Slider/Carousel powered by React Motion.",
+  "description": "Fork of View-Pager/Slider/Carousel powered by React Motion, with React 16 support.",
   "main": "lib/react-view-pager.js",
   "files": [
     "dist",
